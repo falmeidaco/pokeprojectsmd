@@ -1,0 +1,7 @@
+*.jar
+web/static/js/bootstrap/
+web/static/js/components-font-awesome/
+web/static/js/jquery/
+build/web/static/js/bootstrap/
+build/web/static/js/components-font-awesome/
+build/web/static/js/jquery/
